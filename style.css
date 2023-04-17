@@ -1,9 +1,10 @@
 .page-content, .sticky-nav {
     background-color: #969696;
 }
-.col-md-8, .col-md-3, .col-md-4, .col-md-12, .page-sidebar {
+#kpi_wrapper .col-md-3 {
     opacity: .5 !important;
 }
+
 .col-md-8:hover, .col-md-3:hover, .col-md-4:hover, .col-md-12:hover, .page-sidebar:hover {
     opacity: 1 !important;
 }
